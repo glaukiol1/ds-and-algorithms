@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Fact of 4:", fact(4))
-	fmt.Println("First 8 fibonacci:", fib(8))
+	fmt.Println("8th fibonacci:", fib(8))
 }
 
 func fact(n int) int {
